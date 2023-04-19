@@ -11,8 +11,11 @@
 ### Навыки и инструменты:     
 - Python
 - Pandas
-- Matplotlib
 - NymPy
+- Scipy
+- Matplotlib
+- Plotly
+- Seaborn
 - Юнит-экономика
 - Продуктовые метрики
     
